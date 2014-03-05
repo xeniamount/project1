@@ -1,6 +1,12 @@
 <html>
 	<title>test</title>
 	<body>
+<<<<<<< HEAD
+		<h1>This is a changed title</h1>
+=======
+		
+		<h2>this is another change</h2>
+>>>>>>> 4c417bd087c8ac47400db52ced2c42bc495bf950
 		<p>Hola!</p>
 		<p>My second change from the web</p>
 	</body>
